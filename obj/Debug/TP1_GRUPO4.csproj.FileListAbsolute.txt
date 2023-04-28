@@ -46,3 +46,11 @@ C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\obj\
 C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\bin\Debug\TP1_GRUPO4.exe.config
 C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\bin\Debug\TP1_GRUPO4.exe
 C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\bin\Debug\TP1_GRUPO4.pdb
+D:\Program Files (x86)\Visual Studio Proyectos\TP1_CRUD\CRUD-Modelo-En-Capas\bin\Debug\TP1_GRUPO4.exe.config
+D:\Program Files (x86)\Visual Studio Proyectos\TP1_CRUD\CRUD-Modelo-En-Capas\bin\Debug\TP1_GRUPO4.exe
+D:\Program Files (x86)\Visual Studio Proyectos\TP1_CRUD\CRUD-Modelo-En-Capas\bin\Debug\TP1_GRUPO4.pdb
+D:\Program Files (x86)\Visual Studio Proyectos\TP1_CRUD\CRUD-Modelo-En-Capas\obj\Debug\TP1_GRUPO4.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Visual Studio Proyectos\TP1_CRUD\CRUD-Modelo-En-Capas\obj\Debug\TP1_GRUPO4.csproj.SuggestedBindingRedirects.cache
+D:\Program Files (x86)\Visual Studio Proyectos\TP1_CRUD\CRUD-Modelo-En-Capas\obj\Debug\TP1_GRUPO4.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Visual Studio Proyectos\TP1_CRUD\CRUD-Modelo-En-Capas\obj\Debug\TP1_GRUPO4.exe
+D:\Program Files (x86)\Visual Studio Proyectos\TP1_CRUD\CRUD-Modelo-En-Capas\obj\Debug\TP1_GRUPO4.pdb

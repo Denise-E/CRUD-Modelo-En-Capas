@@ -135,9 +135,31 @@ namespace TP1_GRUPO4
 
 
             Console.WriteLine("Ingrese su nombre: ");
-            asistente.nombre = Console.ReadLine();
+            string nombre_user = Console.ReadLine();
+            int ignore;
+            bool name_check = Int32.TryParse(nombre_user, out ignore);
+
+            while(String.IsNullOrEmpty(nombre_user) || name_check)
+            {
+                Console.WriteLine("Debe ingresar un nombre válido: ");
+                nombre_user = Console.ReadLine();
+                name_check = Int32.TryParse(nombre_user, out ignore);
+            }
+
+            asistente.nombre = nombre_user;
+
             Console.WriteLine("Ingrese su apellido: ");
-            asistente.apellido = Console.ReadLine();
+            string apellido_user = Console.ReadLine();
+            bool apellido_check = Int32.TryParse(apellido_user, out ignore);
+
+            while (String.IsNullOrEmpty(apellido_user) || apellido_check)
+            {
+                Console.WriteLine("Debe ingresar un apellido válido: ");
+                apellido_user = Console.ReadLine();
+                apellido_check = Int32.TryParse(apellido_user, out ignore);
+            }
+
+            asistente.apellido = apellido_user;
 
             Console.WriteLine("Ingrese su edad: ");
             short edad_verificada;
@@ -152,8 +174,20 @@ namespace TP1_GRUPO4
 
 
             Console.WriteLine("Ingrese su turno: ");
-            asistente.turno = Console.ReadLine();
-            Console.WriteLine("Ingrese su descripcion: ");
+            string turno_user = Console.ReadLine();
+            bool turno_check = Int32.TryParse(turno_user, out ignore);
+
+            while (String.IsNullOrEmpty(turno_user) || turno_check)
+            {
+                Console.WriteLine("Debe ingresar un turno válido: ");
+                turno_user = Console.ReadLine();
+                turno_check = Int32.TryParse(turno_user, out ignore);
+            }
+
+            asistente.apellido = turno_user;
+
+
+            Console.WriteLine("Ingrese su descripcion: "); // Decidimos dejar la descripción como un dato opcional.
             asistente.descripcion = Console.ReadLine();
 
 

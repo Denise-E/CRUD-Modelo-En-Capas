@@ -38,3 +38,11 @@ C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT_TP1_GRUPO4\obj\Debug\TP1_
 C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT_TP1_GRUPO4\obj\Debug\TP1_GRUPO4.csproj.CoreCompileInputs.cache
 C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT_TP1_GRUPO4\obj\Debug\TP1_GRUPO4.exe
 C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT_TP1_GRUPO4\obj\Debug\TP1_GRUPO4.pdb
+C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\obj\Debug\TP1_GRUPO4.csproj.AssemblyReference.cache
+C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\obj\Debug\TP1_GRUPO4.csproj.SuggestedBindingRedirects.cache
+C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\obj\Debug\TP1_GRUPO4.csproj.CoreCompileInputs.cache
+C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\obj\Debug\TP1_GRUPO4.exe
+C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\obj\Debug\TP1_GRUPO4.pdb
+C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\bin\Debug\TP1_GRUPO4.exe.config
+C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\bin\Debug\TP1_GRUPO4.exe
+C:\Users\denue\OneDrive\Documentos\Ort - Terciario\PNT\CRUD-Modelo_En_Capas\bin\Debug\TP1_GRUPO4.pdb
